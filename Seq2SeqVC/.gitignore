@@ -1,0 +1,4 @@
+checkpoint_*
+events.*
+*.pdf
+*.pyc
